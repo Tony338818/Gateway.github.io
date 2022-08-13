@@ -1,0 +1,23 @@
+body{ 
+    background-color: greenyellow; 
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment: scroll;
+}
+    title{ 
+        background-color: indigo;
+        color: whitesmoke;
+      }
+p{ 
+    color:cadetblue;
+    font-weight: bolder;
+    font-size:60px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 20px;
+    padding: 30px;
+    background-color:burlywood;
+
+    
+}
